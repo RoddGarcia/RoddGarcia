@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roddgarcia&label=Profile%20views&color=0e75b6&style=flat" alt="roddgarcia" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vsfgarcia" target="blank"><img src="https://img.shields.io/twitter/follow/vsfgarcia?logo=twitter&style=for-the-badge" alt="vsfgarcia" /></a> </p>
+<h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>=
 
 - 🌱 I’m currently learning **AI, CyberSecurity and Mobile Dev (Kotlin)**
 
 - 📫 How to reach me **rodrigogarciac@outlook.com**
+
+### Experiência de trabalho (Work Experience)
+
+[<img align="left" height="94px" width="94px" alt="Consultax Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTEmKIqoos4nsdbjJ0Ulg9aJL2VuiAf8_FVLpbfH4xg&s"/>](https://grupoconsultax.com.br/)
+
+**Grupo Consultax: Consultoria Contábil** \
+[**Consultax**](https://www.grupoconsultax.com.br/) • Estágio (Internship) \
+Linguagens & Tecnologias: `Python`, `JavaFX`, `VBA`, `Excel`,\
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
