@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>
 
 <div>
-  <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="Github stats"
-    />
-  </div>
-
-[![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoddGarcia&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+  [![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoddGarcia)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="text-align: right;">
     <h3>São Paulo, Brazil</h3>
