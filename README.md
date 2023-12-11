@@ -7,6 +7,8 @@
       alt="Github stats"
     />
   </div>
+
+[![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoddGarcia&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
   
   <div style="text-align: right;">
     <h3>São Paulo, Brazil</h3>
