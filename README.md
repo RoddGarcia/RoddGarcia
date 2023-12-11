@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>
 
 <div>
-  ![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoddGarcia)](https://github.com/anuraghazra/github-readme-stats)]
+  [RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoddGarcia)](https://github.com/anuraghazra/github-readme-stats)]
   
   <div style="text-align: right;">
     <h3>São Paulo, Brazil</h3>
