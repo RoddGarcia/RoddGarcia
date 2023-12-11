@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>
 
 <div>
-  [![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoddGarcia&hide=stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/RoddGarcia)
+  
+  [![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoddGarcia&theme=algolia&show_icons=true)](https://github.com/RoddGarcia)
   
   <div style="text-align: right;">
     <h3>São Paulo, Brazil</h3>
