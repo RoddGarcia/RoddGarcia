@@ -2,8 +2,6 @@
 
 <div>
   
-  [![RoddGarcia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RoddGarcia&theme=algolia&show_icons=true)](https://github.com/RoddGarcia)
-  
   <div style="text-align: right;">
     <h3>São Paulo, Brazil</h3>
     <p>Reach me: <b>rodrigogarciac@outlook.com</b> 📫</p>
