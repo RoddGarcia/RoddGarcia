@@ -38,6 +38,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoddGarcia&repo=JavaUrnaProjeto" />
   </a>
 </div>
+<div>
+  <a href="https://github.com/RoddGarcia/ResgateDeParidades">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoddGarcia&repo=ResgateDeParidades" />
+  </a>
+</div>
 
 </br>
 
