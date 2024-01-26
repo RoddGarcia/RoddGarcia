@@ -18,7 +18,7 @@
 
 <p>🎓 Estudando <b>SISTEMAS DE INFORMAÇÃO</b> na <a href="https://www.mackenzie.br/">Universidade Presbiteriana Mackenzie São Paulo</a>.</p>
 <p>💼 Estagiando como <b>DESENVOLVEDOR DE SOFTWARE e de AUTOMAÇÕES</b> na <a href="https://www.grupoconsultax.com.br">Grupo Consultax: Consultoria Contábil</a></p>
-<p>🌱&nbsp;Aprendendo mais sobre <b>Análise de Dados (Power BI + SQL), CyberSecurity e Mobile Dev (Kotlin)</b>.</p>
+<p>🌱&nbsp;Aprendendo mais sobre <b>Análise de Dados (Power BI, SQL e PANDAS (Python) e Mobile Dev (Kotlin)</b>.</p>
 
 </br>
 
