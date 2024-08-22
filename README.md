@@ -54,12 +54,21 @@
 
 ### Experiência de Trabalho (Work Experience)
 
+
+[<img align="left" height="94px" width="94px" alt="Huawei Logo" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072022/huawei-logo.png?z.kQ6_wtozzOsUwgOw_VNllc6YJOb3YS&itok=KIx1Z3Zr"/>](https://www.huawei.com/)
+
+**Huawei** \
+[**Huawei**](https://www.huawei.com/) • Estágio Análise de Dados (Data Analyst Internship) \
+Linguagens & Tecnologias: `SQL`, `Excel`\
+(06/2024 - atualmente)
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Consultax Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTEmKIqoos4nsdbjJ0Ulg9aJL2VuiAf8_FVLpbfH4xg&s"/>](https://grupoconsultax.com.br/)
 
 **Grupo Consultax: Consultoria Contábil** \
 [**Consultax**](https://www.grupoconsultax.com.br/) • Estágio Desenvolvimento de Software (Software Dev. Internship) \
 Linguagens & Tecnologias: `Python`, `JavaFX`, `VBA`, `Excel`,\
-(06/2023 - atualmente)
+(06/2023 - 06/2024)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Consultax Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmTEmKIqoos4nsdbjJ0Ulg9aJL2VuiAf8_FVLpbfH4xg&s"/>](https://grupoconsultax.com.br/)
