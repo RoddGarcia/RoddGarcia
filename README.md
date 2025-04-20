@@ -16,13 +16,19 @@
   </a>
 </p>
 
+## PT-BR
 <p>🎓 Estudando <b>SISTEMAS DE INFORMAÇÃO</b> na <a href="https://www.mackenzie.br/">Universidade Presbiteriana Mackenzie São Paulo</a>.</p>
-<p>💼 Estagiando como <b>DESENVOLVEDOR DE SOFTWARE e de AUTOMAÇÕES</b> na <a href="https://www.grupoconsultax.com.br">Grupo Consultax: Consultoria Contábil</a></p>
-<p>🌱&nbsp;Aprendendo mais sobre <b>Análise de Dados (Power BI, SQL e PANDAS (Python) e Machine Learning</b>.</p>
+<p>💼 Estagiando como <b>ESTAGIÁRIO EM ANALISE DE DADOS EM QUALIDADE E SEGURANÇA</b> na <a href="https://www.huawei.com/br/">Huawei Brasil</a></p>
+<p>🌱&nbsp;Aprendendo sobre <b>Computational Vision, Machine Learning & Data Science</b>.</p>
+
+## ENG
+<p>🎓 Studying <b>INFORMATION SYSTEMS</b> at <a href="https://www.mackenzie.br/">Presbyterian University Mackenzie São Paulo</a>.</p>
+<p>💼 Interning as a <b>DATA ANALYSIS INTERN IN QUALITY AND SAFETY</b> at <a href="https://www.huawei.com/br/">Huawei Brazil</a>.</p>
+<p>🌱 Learning about <b>Computational Vision, Machine Learning & Data Science</b>.</p>
 
 </br>
 
-### Meus Projetos Favoritos
+### Meus Projetos Favoritos (My Favorite Projects)
 
 <div>
   <a href="https://github.com/RoddGarcia/Parla">
@@ -58,8 +64,8 @@
 [<img align="left" height="94px" width="94px" alt="Huawei Logo" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072022/huawei-logo.png?z.kQ6_wtozzOsUwgOw_VNllc6YJOb3YS&itok=KIx1Z3Zr"/>](https://www.huawei.com/)
 
 **Huawei** \
-[**Huawei**](https://www.huawei.com/) • Estágio Análise de Dados (Data Analyst Internship) \
-Linguagens & Tecnologias: `SQL`, `Excel`\
+[**Huawei**](https://www.huawei.com/) • Estágio Análise de Dados em Qualidade e Segurança de Trabalho (Q&EHS Data Analyst Internship) \
+Linguagens & Tecnologias: `SQL`, `Excel`, `Python`\
 (06/2024 - atualmente)
 <br/>
 
